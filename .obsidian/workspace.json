@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "85b0d83dc1934d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b978bddd57541e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e94cb1bf120c9269",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58b099b226ff6224",
+    "type": "split",
+    "children": [
+      {
+        "id": "65234509229cefa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "029b2683fe53d25a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48071da41841e071",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42c3a72fcdbc4e09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "5f1d513c2dfe4f9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd689bd122d8c35a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "146ed3a6cce03f01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4491aa83cb87dfe5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3b9f10ef1d8b2d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c26525d83502344a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e94cb1bf120c9269",
+  "lastOpenFiles": [
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md~",
+    "Year 1/Block 1/Computer Organisation and Architecture/Bits, Bytes, ETC..md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 - Structured Computer Organization.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 Structured Computer Organization.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 - Structured Computer Organization.md~",
+    "Year 1/Block 1/Computer Organisation and Architecture/4913",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 Structured Computer Organization.md~",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.md~",
+    "Year 1/Block 1/Computer Organisation and Architecture",
+    "Year 1/Block 1/Introduction to Programming",
+    "Year 1/Block 1",
+    "Year 1",
+    "Welcome.md"
+  ]
+}
