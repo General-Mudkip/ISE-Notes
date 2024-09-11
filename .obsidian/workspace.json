@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md",
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md",
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md",
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md"
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md"
               }
             }
           }
@@ -143,24 +143,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e94cb1bf120c9269",
   "lastOpenFiles": [
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md~",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/4913",
+    "Pasted image 20240911214836.png",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1..md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
+    "Untitled.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md~",
+    "Year 1/Block 1/Computer Organisation and Architecture/4913",
     "Year 1/Block 1/Computer Organisation and Architecture/Bits, Bytes, ETC..md",
     "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 - Structured Computer Organization.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 Structured Computer Organization.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 - Structured Computer Organization.md~",
-    "Year 1/Block 1/Computer Organisation and Architecture/4913",
     "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 Structured Computer Organization.md~",
     "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.md~",
     "Year 1/Block 1/Computer Organisation and Architecture",
     "Year 1/Block 1/Introduction to Programming",
     "Year 1/Block 1",
-    "Year 1",
     "Welcome.md"
   ]
 }
