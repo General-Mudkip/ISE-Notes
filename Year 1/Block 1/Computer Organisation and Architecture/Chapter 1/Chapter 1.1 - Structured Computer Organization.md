@@ -6,18 +6,13 @@ Pages 2-4
 > [!TIP] TL/DR
 > Computers run on machine code, aka an L0 language. Humans cannot efficiently write in this low-level language. Therefore we have *abstracted* on top of this L0 language by creating instruction sets with easier to understand syntax. These can be called L1, L2, L3, etc. languages. Over time, we have progressively built layers of languages on top of each other, eventually ending up with our current landscape of "high-level" languages, such as Java, Python, and Go.
 
-
-### Definitions 
-- **Program:** A sequence of instructions describing how to perform a certain task.
-- **Structured Computer Organization:** Computers are just a series of abstractions over one another; from machine language, to assembly, to high-level languages.
-
 ## 1.1.1 Languages, Levels, and Virtual Machines
 The "language" that computers understand and run off of can be called **L0**. This is just basic machine code. Obviously it would be impractical to build programs using this language, so we built languages on top of it (abstracted). These languages can be called L1, L2, L3, etc.
 
 Computers cannot directly run programs written in these languages, and so we created various methods of turning the higher-level languages into something that can be executed by the computer.
 
 ### Translation/Compilation
-This method involves replacing each instruction in the L1 file with a sequence of *equivalent* instructions in L0. The computer can then use this new L0 file to run the program. (This is what happens when we run `gcc hello_world.c` or `javac hello_world.java`. In both instances a program runs through our files and compiles it down into machine code/L0.)
+This method involves replacing each instruction in the L1 file with a sequence of *equivalent* instructions in L0. The computer can then use this new L0 file to run the program. (This is what happens when we run `gcc hello_world.c` or `javac hello_world.java`. In both instances a program runs through our files and compiles it down into machine code/L0 all at once.)
 
 > [!INFO]
 > Compilation is similar to translation (To the best of my knowledge, correct me), however while translation just converts each line of L1 code into its exact replica in L0, compilation analyses the code and creates optimisations that help to speed up the newly-translated L0 code. You'll often hear "compile" used instead of "translate", in my experience.
@@ -51,5 +46,7 @@ C is a good example of a language that is somewhat in between machine code and t
 
 
 ## 1.1.2 Contemporary Multilevel Machines
+
+
 
 ![[Pasted image 20240911214836.png]]

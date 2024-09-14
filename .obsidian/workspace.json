@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b978bddd57541e0",
+        "id": "f1ba1e2df25ceae5",
         "type": "tabs",
         "children": [
           {
-            "id": "e94cb1bf120c9269",
+            "id": "1711103a1d5ee4b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Bits, Bytes, ETC..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Bits, Bytes, ETC..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Bits, Bytes, ETC..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md"
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Bits, Bytes, ETC..md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -144,31 +145,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e94cb1bf120c9269",
+  "active": "c26525d83502344a",
   "lastOpenFiles": [
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md~",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/4913",
-    "Pasted image 20240911214836.png",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1..md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
-    "Untitled.md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md~",
-    "Year 1/Block 1/Computer Organisation and Architecture/4913",
+    "4913",
     "Year 1/Block 1/Computer Organisation and Architecture/Bits, Bytes, ETC..md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Untitled.md",
+    "Glossary.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Definitions",
+    "Definitions.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
+    "Textbooks/COMPUTER ARCHITECTURE - Andrew S. Tanenbaum - Structured Computer Organization.pdf",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Test Note.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Pasted image 20240911214836.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Definitions",
+    "Textbooks/INTRO TO PROGRAMMING - Harvey M. Deitel_ Paul J. Deitel - Java how to program _ late objects _ introducing JShell (2020) - libgen.li.pdf",
+    "Year 1/Block 1/Introduction to Programming/Chapter 1 - Introduction to Computer, the Internet, and Java.md",
+    "Year 1/Block 1/Introduction to Programming/Pasted image 20240912142830.png",
+    "Year 1/Block 1/Computer Organisation and Architecture/Bits, Bytes, ETC..md~",
+    "Year 1/Block 1/Computer Organisation and Architecture/4913",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md~",
+    "Year 1/Block 1/Introduction to Programming/~$1.1_Questions.docx",
+    "Year 1/Block 1/Introduction to Programming/~WRL0421.tmp",
+    "Year 1/Block 1/Introduction to Programming/~WRD0414.tmp",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1..md",
     "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 - Structured Computer Organization.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 Structured Computer Organization.md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 - Structured Computer Organization.md~",
     "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 Structured Computer Organization.md~",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.md~",
-    "Year 1/Block 1/Computer Organisation and Architecture",
-    "Year 1/Block 1/Introduction to Programming",
-    "Year 1/Block 1",
     "Welcome.md"
   ]
 }

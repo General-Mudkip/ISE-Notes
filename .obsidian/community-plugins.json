@@ -1,4 +1,8 @@
 [
   "obsidian-admonition",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "supercharged-links-obsidian",
+  "dataview",
+  "obsidian-icon-folder",
+  "templater-obsidian"
 ]
