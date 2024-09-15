@@ -59,7 +59,6 @@ for (let group of groupedTableEntries) {
                     name: note.file.name,
                     link: note.file.link,
                     definition: getSectionContent(content, mySectionName), // get the section content
-                    topic: note.topic,
                     related: note.related
                 };
             })
@@ -67,10 +66,10 @@ for (let group of groupedTableEntries) {
 
 
     dv.header(3, group.key); // show the character as the header
-    dv.table(["Term", "Definition","Topic"],
+    dv.table(["Term", "Definition","Related"],
         tableEntries
         .sort((entryA, entryB) => entryA.name.localeCompare(entryB.name))
-        .map(entry => [entry.link, entry.definition, entry.topic, entry.related])
+        .map(entry => [entry.link, entry.definition, entry.related])
     )
 }
 ```
