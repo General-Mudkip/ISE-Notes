@@ -13,20 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.2 - Milestones in Computer Architecture.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "30c489a6bd1e8681",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/COMPUTER ARCHITECTURE - Andrew S. Tanenbaum - Structured Computer Organization.pdf"
               }
             }
           }
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.2 - Milestones in Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.2 - Milestones in Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md"
+                "file": "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.2 - Milestones in Computer Architecture.md"
               }
             }
           }
@@ -160,48 +149,84 @@
       "templater-obsidian:Templater": false
     }
   },
+  "floating": {
+    "id": "31af92d5e1162105",
+    "type": "floating",
+    "children": [
+      {
+        "id": "60e0e0dd8729d8a5",
+        "type": "window",
+        "children": [
+          {
+            "id": "46d7c241a412b196",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "30c489a6bd1e8681",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Textbooks/COMPUTER ARCHITECTURE - Andrew S. Tanenbaum - Structured Computer Organization.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1733,
+        "y": 211,
+        "width": 627,
+        "height": 872,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "436da8ab9161bbbb",
   "lastOpenFiles": [
-    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Virtual Machine.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.2 - Milestones in Computer Architecture.md",
+    "Textbooks/COMPUTER ARCHITECTURE - Andrew S. Tanenbaum - Structured Computer Organization.pdf",
+    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/ALU.md",
+    "ALU.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Device Level.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/MultilevelMachines.png",
+    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/OS Diagram.png",
+    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Register.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Registers in a modern-day cpu.png",
+    "Glossary.md",
+    "Process of writing new chapter notes.md",
+    "Term Template.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Translation.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Abstraction.md",
+    "abstracted.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Machine Code.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/L0 Language.md",
+    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Virtual Machine.md",
     "Virtualisation.md",
     "Virtual Machines.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Definitions/CPU.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Interpretor.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Interpretation.md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/L0 Language.md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Machine Code.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Operating System.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Program.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Virtualisation.md",
     "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Structured Computer Organisation.md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Translation.md",
-    "Glossary.md",
-    "Textbooks/COMPUTER ARCHITECTURE - Andrew S. Tanenbaum - Structured Computer Organization.pdf",
     "1.md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Definitions/Pasted image 20240915145442.png",
-    "Term Template.md",
     "Definitions.md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Pasted image 20240911214836.png",
-    "Year 1/Block 1/Computer Organisation and Architecture/Bits, Bytes, ETC..md",
     "Textbooks/INTRO TO PROGRAMMING - Harvey M. Deitel_ Paul J. Deitel - Java how to program _ late objects _ introducing JShell (2020) - libgen.li.pdf",
     "Textbooks",
     "4913",
     "Year 1/Block 1/Computer Organisation and Architecture/Definitions",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Test Note.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Definitions",
-    "Year 1/Block 1/Introduction to Programming/Chapter 1 - Introduction to Computer, the Internet, and Java.md",
     "Year 1/Block 1/Introduction to Programming/Pasted image 20240912142830.png",
     "Year 1/Block 1/Computer Organisation and Architecture/Bits, Bytes, ETC..md~",
     "Year 1/Block 1/Computer Organisation and Architecture/4913",
     "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1/Chapter 1.1 - Structured Computer Organization.md~",
-    "Year 1/Block 1/Introduction to Programming/~$1.1_Questions.docx",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.1 - Structured Computer Organization.md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1..md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 - Structured Computer Organization.md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1 Structured Computer Organization.md",
-    "Year 1/Block 1/Computer Organisation and Architecture/Chapter 1.md"
+    "Year 1/Block 1/Introduction to Programming/~$1.1_Questions.docx"
   ]
 }
