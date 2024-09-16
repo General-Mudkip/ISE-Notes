@@ -1,4 +1,5 @@
 Here's the general process for how to write notes for a new chapter.
+
 1) If it does not already exist, create the directory for the chapter under the correct parent directories. e.g Year 1 > Block 1 > Computer Organisation > Chapter 1. Generally the structure should look something like this:
 	- Year (Directory)
 		- Block (Directory)
