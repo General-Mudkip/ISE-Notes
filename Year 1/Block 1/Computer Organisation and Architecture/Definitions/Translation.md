@@ -9,5 +9,5 @@ aliases:
   - translating
 ---
 ## Definition
-A process where programming instructions in a higher-level language are converted into equivalent [[machine code|machine language]] instructions that a computer can understand and process.
-- Unlike interpretation, the [[program]] is only "ran" by the computer once that whole file has been converted into L0 code.
+A process where programming instructions in a higher-level language are converted into equivalent [[Machine Code|machine language]] instructions that a computer can understand and process.
+- Unlike interpretation, the [[Program]] is only "ran" by the computer once that whole file has been converted into L0 code.
