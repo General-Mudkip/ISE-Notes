@@ -28,4 +28,7 @@ The CPU is connected by one or more buses to external devices.
 ## 2.1.3 RISC vs CISC
 [[RISC]]: All instructions are executed by the core - no microcode/interpretation
 - This maximises the rate at which instructions can be issued. They are also easy to decode.
-[[CISC]]:
+- The instructions themselves are simple.
+[[CISC]]: Instructions are complex, but less are issued than with RISC
+
+It was argued that, while RISC was issuing more instructions, because they were simple and quick, they performed better than CISC which issued less instructions but took longer.
