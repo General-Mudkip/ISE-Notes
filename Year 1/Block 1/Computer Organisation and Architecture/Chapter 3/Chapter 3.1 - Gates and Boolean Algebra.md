@@ -34,5 +34,5 @@ To create one:
 1. You write the function as a table.
 2. Circle groups of 1s in sizes of 8, 4, 2 starting with the largest possible groups
 	1. A 1 can be in multiple groups
-	2. A X can be in or out of a group.
+	2. A X can be in or out of a group (it means "don't care")
 ![[Pasted image 20240920204611.png]]

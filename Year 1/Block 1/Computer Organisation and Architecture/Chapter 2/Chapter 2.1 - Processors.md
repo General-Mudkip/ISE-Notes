@@ -56,7 +56,7 @@ This does depend on S3 being able to issue instructions faster than S4 can execu
 
 ### Data Parallel Computers
 
-Pipelining and Superscalar architecture can improve performance by 5-10 times - but we may need to have more dramatic improvements.
+Pipelining and Superscalar architecture can improve performance by 5-10 times - but in some cases, we may need to have more dramatic improvements.
 
 Some data can be processed in parallel:
 - Graphics - many pixels/ elements can be run at the same time/ in parallel
@@ -69,7 +69,7 @@ Some data can be processed in parallel:
 
 Connecting multiple CPUs together on one motherboard is called multiprocessing.
 - These are tightly coupled CPUs using a fast bus.
-- However, caches need to be flushed and synchronized, as its shared memory.
+- However, caches need to be flushed and synchronized, as it's shared memory.
 ![[Pasted image 20240923095435.png]]
 
 Connecting multiple computers together on a fast network is called multicomputing.
