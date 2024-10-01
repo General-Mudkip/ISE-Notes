@@ -51,6 +51,9 @@ Modern computers use many tricks to maximize their performance; chief among whic
 ### Instructions Should Be Easy to Decode
 One of the most critical limits on the rate at which instructions can be issued, is the decoding of individual instructions to determine what resources they need. In order to aid this process, designers aim to keep each instruction regular, of fixed length, and with a small number of fields.
 
+### Only Loads and Stores Should Reference Memory
+One of the simplest ways to break apart operations into separate steps is to require that operands for all instructions come from - and return to - CPU registers. The only instructions that should reference memory are LOAD and STORE.
+
 ### Provide Plenty of Registers
 Since accessing main memory (RAM) is relatively slow compared to the speed at which the CPU operates, many registers (at least 32) need to be provided, so that once data is fetched, it can be kept in a register until it is no longer needed. Running out of registers and needing to flush them, then re-populate them later is undesirable, and thus adding more registers is a key goal.
 
@@ -63,8 +66,7 @@ Parallelism is the process of running multiple instructions at once, and there a
 Thus, computer architects opted to introduce a number of different methods of parallelisation. Multiple cores on a single CPU is one example, and pipelining is another.
 
 ### Pipelining
-While it takes longer for a single instruction to execute, the difference is tiny, and this way, you can execute many instructions (and more instructions follow quickly after).
-AKA it doesn't matter how long it takes for one instruction to be executed, it matters how *many* instructions can be executed.
+Pipelining involves breaking apart instructions into their various steps. As shown in the diagram below, these steps may be (depending on the CPU) Fetch, Decode, Execute, Memory, Write. Pipelining allows for many more instructions to be issued per second. Instead of waiting for a single instruction to finish before issuing another (1 instruction every 5 cycles), we can instead issue a new instruction every cycle. (1 instruction every 1 cycle).
 ![[Pipelining.png]]
 
 ### Superscalar Architecture
