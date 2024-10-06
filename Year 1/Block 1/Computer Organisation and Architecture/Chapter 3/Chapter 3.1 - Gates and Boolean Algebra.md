@@ -1,12 +1,26 @@
 ## 3.1.1 Gates
 
+A digital circuit is one in which only two (i.e binary) logical values are present. Typically, a signal between 0 and 0.5 volts represents one value (e.g binary 0, often called "low"), and a signal between 1 and 1.5 volts represents the other value (e.g binary 1, often called "high").
 ### Transistors
-A transistor can be thought of as an electronic tap that allows current to flow from the collector to the emitter depending on the voltage applied to the base
+A transistor can be thought of as an electronic tap that allows current to flow from the collector to the emitter depending on the voltage applied to the base.
 
-Transistors are [[Bipolar]] and can allow current to flow from [[Base]] to [[Emitter]] (NPN) or from emitter to base (PNP) which controls the current flow from [[Collector]] to emitter
+It is made up of three connections:
+- **Collector**
+- **Base**
+- **Emitter**
+
+The below transistor is a **NOT gate**, inverting its signal.
 ![[transistor.png]]
+When $V_{in}$ is low (binary 0), the transistor is **off**, acting as a powerful resistor and allowing no current flow. This results in the the current from the common voltage, $V_{cc}$ , flowing into $V_{out}$ , a binary 1.
 
-A [[Field Effect Transistor]] (FET) has the same function but is instead gated by an electric field
+When $V_{in}$ is high (binary 1), the transistor is **on**, allowing current to flow through it to ground.. This results in the the current from the common voltage, $V_{cc}$ , flowing through the transistor to ground, and $V_{out}$ being low, a binary 0.
+
+This inversion of $V_{in}$ is why it is called a **NOT gate**. An input of 1 becomes 0, and and input of 0 becomes 1.
+
+Here are some other gates. How they work is left as an exercise to the reader :)
+![[Pasted image 20241006181029.png]]
+
+A [[Field Effect Transistor]] (FET) has the same function but is instead gated by an electric field.
 - FETs have lower power consumption and higher density
 - The connections are called source, gate and drain.
 
