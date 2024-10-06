@@ -18,7 +18,7 @@ When $V_{in}$ is high (binary 1), the transistor is **on**, allowing current to 
 This inversion of $V_{in}$ is why it is called a **NOT gate**. An input of 1 becomes 0, and and input of 0 becomes 1.
 
 Here are some other gates. How they work is left as an exercise to the reader :)
-![[Pasted image 20241006181029.png]]
+![[Gates.png]]
 
 A [[Field Effect Transistor]] (FET) has the same function but is instead gated by an electric field.
 - FETs have lower power consumption and higher density

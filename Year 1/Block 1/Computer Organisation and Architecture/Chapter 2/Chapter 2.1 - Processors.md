@@ -72,7 +72,7 @@ Pipelining involves breaking apart instructions into their various steps. As sho
 ### Superscalar Architecture
 
 Early CPUs improved efficiency by having two pipelines, as shown below.
-![[Pasted image 20241006174616.png]]
+![[SuperscalarArchitectureV1.png]]
 
 This worked, however had a number of issues.
 - If two instructions that were running concurrently modified the same register, conflicts would occur. That, or you'd need twice as many registers.
@@ -91,7 +91,7 @@ Pipelining and Superscalar architecture can improve performance by 5-10 times - 
 Some data can be processed in parallel:
 - Graphics (with a GPU) - many pixels/ elements can be run at the same time/ in parallel.
 - Machine learning/neural networks.
-![[Pasted image 20241006175410.png]]
+![[Multicomputing.png]]
 
 [[SIMD]] processing can run the same operation on many data samples in parallel.
 - GPUs, for example, rely heavily on SIMD processing
