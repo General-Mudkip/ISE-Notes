@@ -3,6 +3,9 @@ tags:
   - definition
 topic: 
 related: "[[Chapter 1.1 - Structured Computer Organization#Virtual Machines]]"
+aliases:
+  - VM
+abbreviation: VM
 ---
 ## Definition
 The term "virtual machine" has two different meanings in computer science:

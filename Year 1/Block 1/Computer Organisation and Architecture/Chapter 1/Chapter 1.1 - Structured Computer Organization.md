@@ -55,14 +55,14 @@ This is the lowest level that we will study. (Above [[Device Level]].) The objec
 A small number of gates can be then combined to form 1-bit memory, which is able to store a 0 or a 1. These 1-bit memories can then be combined to form larger [[Register|registers]].
 
 ### Microarchitecture Level
-At this level, we see a collection of (typically) 8 to 32 registers that form an [[ALU|ALU (Arithmetic Logic Unit)]], which, as the name implies, is capable of performing simple arithmetic operations such as addition, subtraction, multiplication, etc.
+At this level, we see a collection of (typically) 8 to 32 registers that form an [[Arithmetic Logic Unit|ALU (Arithmetic Logic Unit)]], which, as the name implies, is capable of performing simple arithmetic operations such as addition, subtraction, multiplication, etc.
 
 The registers are connected to the ALU, forming a **data path**, over which the data flows. The basic operation of a data path is as follows:
 - Selects one or two registers
 - Has the ALU operate on them (e.g Add them)
 - Stores the result back in another register
 
-On some machines, this is controlled by a **[[microprogram]]**, which can either be implemented in software or, in more modern [[CPU]]s, hardware. These microprograms are able to fetch, examine, and execute instructions one by one, using the data path to do so. For example, for an `ADD` command, the instruction would be fetched, its operands (variables) located, brought back into the registers, the sum computed by the ALU, and finally the result routed back to the designated location.
+On some machines, this is controlled by a **[[microprogram]]**, which can either be implemented in software or, in more modern [[Central Processing Unit]]s, hardware. These microprograms are able to fetch, examine, and execute instructions one by one, using the data path to do so. For example, for an `ADD` command, the instruction would be fetched, its operands (variables) located, brought back into the registers, the sum computed by the ALU, and finally the result routed back to the designated location.
 
 ### Instruction Set Architecture Level (ISA Level)
 Book doesn't do a good job of explaining it. Look at page 6 if you really need to know this.

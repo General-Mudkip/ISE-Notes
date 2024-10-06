@@ -1,4 +1,5 @@
 /Textbooks
 .obsidian/workspace.json
 .obsidian/appearance.json
-Ignored/
+/Ignored
+.obsidian/graph.json
