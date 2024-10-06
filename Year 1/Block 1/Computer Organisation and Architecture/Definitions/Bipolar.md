@@ -5,6 +5,7 @@ topic:
 related: "[[Chapter 3.1 - Gates and Boolean Algebra#Transistors]]"
 aliases:
   - Bipolar junction transistors
+title: Bipolar
 ---
 ## Definition
 

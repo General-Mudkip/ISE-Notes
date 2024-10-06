@@ -1,3 +1,6 @@
+---
+title: Chapter 1.1 - Structured Computer Organization
+---
 Pages 2-4
 
 > [!note] 

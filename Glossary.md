@@ -1,3 +1,7 @@
+---
+title: Glossary
+---
+
 Here's a glossary for all of the terms that are used in ISE.
 
 ```dataviewjs

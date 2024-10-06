@@ -1,3 +1,6 @@
+---
+title: Chapter 1.2 - Milestones in Computer Architecture
+---
 
 There have been hundreds of different kinds of computers that were designed and built on our journey to the modern digital computer. This chapter is mostly just a brief overview of the few that had a significant impact on modern ideas.
 

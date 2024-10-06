@@ -1,6 +1,9 @@
+---
+title: Chapter 1.3 - The Computer Zoo
+---
 ## 1.3.1 - Technological and Economic Forces 
 
-The computer industry is innovating at a rapid pace. The primary driving force of this push forward is the ability of chip manufacturers to pack more and more [[Transitor|transistors]] per chip every year. More transistors means more memory and more powerful processors.
+The computer industry is innovating at a rapid pace. The primary driving force of this push forward is the ability of chip manufacturers to pack more and more [[Transistor|transistors]] per chip every year. More transistors means more memory and more powerful processors.
 
 Gordon Moore, co-founder of Intel, predicted that the increase in the number of transistors per chip would continue uninterrupted for decades to come. This is nowadays know as "[[Moore's Law]]", and is often expressed as the doubling of the number of transistors every 18 months.
 

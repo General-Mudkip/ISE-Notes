@@ -1,3 +1,6 @@
+---
+title: Lecture 2 - Interviews
+---
 
 Predict questions, prepare answers, and practice saying them out loud.
 

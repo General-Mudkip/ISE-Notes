@@ -1,3 +1,6 @@
+---
+title: Chapter 2.1 - Processors
+---
 ## 2.1.1 CPU Organization
 The [[CPU|CPU (Central Processing Unit)]] is made up of various distinct parts: 
 - The [[ALU]] performs operations such as addition and Boolean AND.

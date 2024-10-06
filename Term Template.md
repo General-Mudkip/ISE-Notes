@@ -3,6 +3,7 @@ tags:
   - definition
 topic: 
 aliases: 
-related:
+related: 
+title: Term Template
 ---
 ## Definition

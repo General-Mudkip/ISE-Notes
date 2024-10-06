@@ -2,7 +2,8 @@
 tags:
   - definition
 topic: 
-aliases:
+aliases: 
+title: Volatile Memory
 ---
 ## Definition
 Does lose its data upon power loss. 

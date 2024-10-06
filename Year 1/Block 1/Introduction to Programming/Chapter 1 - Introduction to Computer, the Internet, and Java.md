@@ -1,3 +1,6 @@
+---
+title: Chapter 1 - Introduction to Computer, the Internet, and Java
+---
 
 ## 1.9 - A Typical Java Development Environment
 

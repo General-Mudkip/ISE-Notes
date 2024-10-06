@@ -1,3 +1,6 @@
+---
+title: Chapter 3.2 - Basic Digital Logic Circuits
+---
 ## Circuit equivalence and Boolean identities
 We can create any gate from all NAND gates or all NOR gates
 - Connecting both inputs together creates a NOT gate

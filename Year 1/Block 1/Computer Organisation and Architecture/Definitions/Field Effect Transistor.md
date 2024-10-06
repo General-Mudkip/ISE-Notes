@@ -7,6 +7,7 @@ aliases:
   - FET
   - JFET
   - MOSFET
+title: Field Effect Transistor
 ---
 ## Definition
 A type of transistor that uses an electric field to control the flow of current in a semiconductor.

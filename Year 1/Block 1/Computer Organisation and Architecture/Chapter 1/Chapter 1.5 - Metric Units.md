@@ -1,3 +1,6 @@
+---
+title: Chapter 1.5 - Metric Units
+---
 Computer scientists use the following prefixes to denote units:
 ![[MetricPrefixes.png]]
 

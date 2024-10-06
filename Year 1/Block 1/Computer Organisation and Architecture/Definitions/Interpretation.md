@@ -3,6 +3,7 @@ tags:
   - definition
 topic: 
 related: "[[Chapter 1.1 - Structured Computer Organization#Interpretation]]"
+title: Interpretation
 ---
 ## Definition
 A process where programming instructions in a higher-level language are converted directly line-by-line into equivalent instructions in an [[L0 Language]] that the computer then executes and runs.

@@ -1,3 +1,6 @@
+---
+title: Chapter 3.1 - Gates and Boolean Algebra
+---
 ## 3.1.1 Gates
 
 A digital circuit is one in which only two (i.e binary) logical values are present. Typically, a signal between 0 and 0.5 volts represents one value (e.g binary 0, often called "low"), and a signal between 1 and 1.5 volts represents the other value (e.g binary 1, often called "high").

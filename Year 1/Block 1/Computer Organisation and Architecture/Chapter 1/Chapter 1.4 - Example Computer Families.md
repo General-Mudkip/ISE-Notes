@@ -1,3 +1,6 @@
+---
+title: Chapter 1.4 - Example Computer Families
+---
 There are various popular [[Instruction Set Architecture|instruction set architectures (ISAs)]]. These include the following:
 - x86: Descended from the original Intel 8086. Large, bloated, and complex instruction set. Co-licensed by AMD and Intel. Used in Windows and Linux PCs.
 - ARM: Based on the [[RISC|RISC (Reduced Instruction Set Computer)]] ISA. A somewhat open standard that can be licensed by any company. There two main [licenses available](https://en.wikipedia.org/wiki/ARM_architecture_family#Licensing).
