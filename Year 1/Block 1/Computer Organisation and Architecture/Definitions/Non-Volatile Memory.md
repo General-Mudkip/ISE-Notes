@@ -4,6 +4,7 @@ tags:
 topic: 
 aliases:
   - NVM
+title: Non-Volatile Memory
 ---
 ## Definition
 Does not lose its data upon power loss.
