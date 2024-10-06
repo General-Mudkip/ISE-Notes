@@ -1,3 +1,7 @@
+---
+title: "Assessment Calendar"
+---
+
 ## Introduction to Programming
 - Mid-Term Part 1: Multiple Choice questions (20%, 8% overall) - 30/09/2024 
 - Mid-Term Part 2: Multiple Choice questions (40%, 16% overall) - 3/10/2024
