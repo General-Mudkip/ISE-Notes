@@ -70,10 +70,17 @@ Pipelining involves breaking apart instructions into their various steps. As sho
 ![[Pipelining.png]]
 
 ### Superscalar Architecture
-Not every instruction needs to use the ALU i.e. move, store, jump.
-As shown in the image, you can have multiple parallel execution units (S4).
-This does depend on S3 being able to issue instructions faster than S4 can execute them (otherwise there would be no need for this).
+
+Early CPUs improved efficiency by having two pipelines, as shown below.
+![[Pasted image 20241006174616.png]]
+
+This worked, however had a number of issues.
+- If two instructions that were running concurrently modified the same register, conflicts would occur. That, or you'd need twice as many registers.
+- It required the duplication of a lot of hardware, that didn't necessarily didn't need to be split across two pipelines, as they were not the **bottleneck.**
+
+Below is how modern CPUs handle multiple pipelines.
 ![[Pasted image 20240923092121.png]]
+Instead of adding more pipelines, a superscalar processor has *one pipeline* but multiple **functional units**. These can be ALUs, load/store units, etc. This is advantageous because the time required to fetch and decode an instruction is much less than the time it takes the ALU to perform a complex operation.
 
 ## 2.1.6 Processor-level Parallelism
 
@@ -82,12 +89,14 @@ This does depend on S3 being able to issue instructions faster than S4 can execu
 Pipelining and Superscalar architecture can improve performance by 5-10 times - but in some cases, we may need to have more dramatic improvements.
 
 Some data can be processed in parallel:
-- Graphics - many pixels/ elements can be run at the same time/ in parallel
-- Machine learning/neural networks
+- Graphics (with a GPU) - many pixels/ elements can be run at the same time/ in parallel.
+- Machine learning/neural networks.
+![[Pasted image 20241006175410.png]]
 
 [[SIMD]] processing can run the same operation on many data samples in parallel.
 - GPUs, for example, rely heavily on SIMD processing
 - A vector processor appears similar to SIMD processor, but instead, all operations are performed on a single, pipelined unit.
+- 
 ### Multiprocessing and Multicomputers
 
 Connecting multiple CPUs together on one motherboard is called multiprocessing.
