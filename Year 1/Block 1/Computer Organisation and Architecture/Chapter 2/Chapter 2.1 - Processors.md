@@ -82,7 +82,7 @@ This worked, however had a number of issues.
 - It required the duplication of a lot of hardware, that didn't necessarily didn't need to be split across two pipelines, as they were not the **bottleneck.**
 
 Below is how modern CPUs handle multiple pipelines.
-![[Pasted image 20240923092121.png]]
+![[Superscalar.png]]
 Instead of adding more pipelines, a superscalar processor has *one pipeline* but multiple **functional units**. These can be ALUs, load/store units, etc. This is advantageous because the time required to fetch and decode an instruction is much less than the time it takes the ALU to perform a complex operation.
 
 ## 2.1.6 Processor-level Parallelism
@@ -105,7 +105,7 @@ Some data can be processed in parallel:
 Connecting multiple CPUs together on one motherboard is called multiprocessing.
 - These are tightly coupled CPUs using a fast bus.
 - However, caches need to be flushed and synchronized, as it's shared memory.
-![[Pasted image 20240923095435.png]]
+![[NoClue.png]]
 
 Connecting multiple computers together on a fast network is called multicomputing.
 - Computers are loosely coupled which means that processing is not as fast
